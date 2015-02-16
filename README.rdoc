@@ -1,4 +1,6 @@
-== README
+== Trip App
+
+Link to heroku: https://fierce-hollows-4935.herokuapp.com/
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
